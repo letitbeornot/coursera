@@ -1,0 +1,46 @@
+
+body {
+  font-size: 16px;
+  color: #000;
+  font-family: "Helvetica", sans-serif;
+}
+#header-nav {
+  background-color: #808080;
+  border-radius: 0;
+  border: 0;
+  padding-bottom: 25px;
+}
+.navbar-brand h1 {
+  font-size: 1.5em;
+  color: #000;
+  font-weight: bold;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+#nav-list a {
+  text-align: center;
+  font-size: 1.2em;
+  color: #000;
+  background: #fff;
+  border: 2px solid #000;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #000;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+.row > div > div {
+  height: 1000px;
+  padding: 20px;
+  margin: 10px auto;
+  background-color: #808080;
+}
+.row h3 {
+  margin-top: 0;
+}
